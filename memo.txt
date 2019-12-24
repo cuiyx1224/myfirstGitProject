@@ -1,0 +1,10 @@
+1,NuGet
+2,EF code first
+3,Fluent API
+4,sql server compact
+Microsoft SQL Server Compact 4.0 是适合于嵌入在桌面和 Web 应用程序中的压缩数据库。SQL Server Compact 4.0 为开发本机和托管应用程序的开发人员提供了与其他 SQL Server 版本通用的编程模型。SQL Server Compact 只需占用很少的空间即可提供关系数据库功能：强大的数据存储、优化查询处理器以及可靠、可扩展的连接。
+SQL Server Compact是一个针对开发人员而设计的免费嵌入式数据库，这一版本的意图是构建独立、仅有少量连接需求的移动设备、桌面和Web客户端应用。
+5,github ギットハブ
+GitHub是一个面向开源及私有软件项目的托管平台，因为只支持git 作为唯一的版本库格式进行托管，故名GitHub。
+GitHub于2008年4月10日正式上线
+2018年6月4日，微软宣布，通过75亿美元的股票交易收购代码托管平台GitHub
